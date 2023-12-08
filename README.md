@@ -1,6 +1,6 @@
 ### Aiken Format File Manipulation Project
 
-#### File 1: Word-to-Aiken Converter
+#### File 1: Word-to-Aiken Converter (toAiken.py)
 
 This Python script is designed to convert Word documents into Aiken format text files. It utilizes the `docx` library to parse and extract content from Word documents, enabling the conversion process. Key features include:
 
@@ -10,7 +10,7 @@ This Python script is designed to convert Word documents into Aiken format text 
 - **Output Generation:** Generates a new text file in Aiken format, formatted according to the extracted content from the Word document.
 - **User Interface:** Provides an interactive interface guiding users through the conversion process.
 
-#### File 2: Aiken Format Question Creator
+#### File 2: Aiken Format Question Creator (createAiken.py)
 
 This Python script facilitates the manual creation of Aiken format text files from scratch. It offers an interactive interface for users to input questions, answers, and choices. Key functionalities include:
 
